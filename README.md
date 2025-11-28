@@ -1,4 +1,4 @@
-# Instagram-form replica
+<h1 align="center">Instagram-form replica</h1>
 
 Instagram-form is a three-page, Instagram-inspired experience created for a school assignment. It mimics the onboarding funnel (disclaimer page → login → sign-up) and demonstrates responsive layouts, custom styling, and interactive form validation entirely in vanilla HTML, CSS, and JavaScript.
 
